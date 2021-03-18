@@ -1,53 +1,47 @@
 # Pwd-Generator
 
-JavaScript: Password Generator
+## JavaScript: Password Generator
 
-Subject Task:
+## Subject Task:
 
 Create a Password Generator application
 
 based on the following Acceptance Criterias:
 
-GIVEN I need a new, secure password
+Create a secure password
 
-WHEN I click the button to generate a password
+Clicking the button to generate a new password
 
-THEN I am presented with a series of prompts for password criteria
+A series of prompts guides you to the password criteria
 
-WHEN prompted for password criteria
+Select the criteria to include in the password
 
-THEN I select which criteria to include in the password
+Select the length of the password choosing a length of at least 8 characters and no more than 128 characters
 
-WHEN prompted for the length of the password
+Choose lowercase, uppercase, numeric, and/or special characters 
 
-THEN I choose a length of at least 8 characters and no more than 128 characters
+Input should be validated and at least one character type should be selected
 
-WHEN prompted for character types to include in the password
+WHEN all prompts are answered a password is generated that matches the selected criteria
 
-THEN I choose lowercase, uppercase, numeric, and/or special characters 
+The password is displayed in an alert 
 
-WHEN I answer each prompt
+## Technologies Used
 
-THEN my input should be validated and at least one character type should be selected
-
-WHEN all prompts are answered
-
-THEN a password is generated that matches the selected criteria
-
-WHEN the password is generated
-
-THEN the password is either displayed in an alert or written to the page
+* Javascript
+* style.css
+* HTML
 
 
 
 
-The following image shows the web application's appearance and object's functionality:
+## The following image shows the web application's appearance and object's functionality:
 
 ![Password Generator](https://user-images.githubusercontent.com/65749636/96331987-74cf4e00-1016-11eb-97ef-cf12d78981a8.PNG)
 
 
 
-What I learned,
+## What I learned,
 
 In this assignment I learned about for looping, and the techniques of creating functions for prompts and alerts. 
 
