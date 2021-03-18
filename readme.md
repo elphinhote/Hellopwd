@@ -4,27 +4,28 @@
 
 ## Subject Task:
 
-Create a Password Generator application
+Create a Password Generator application.
 
-based on the following Acceptance Criterias:
+Based on the following Acceptance Criterias:
 
-Create a secure password
+Create a secure password.
 
-Clicking the button to generate a new password
+Click the button to generate a new password.
 
-A series of prompts guides you to the password criteria
+A series of prompts guides you to the password criteria.
 
-Select the criteria to include in the password
+Select the criteria to include in the password.
 
-Select the length of the password choosing a length of at least 8 characters and no more than 128 characters
+Select the length of the password choosing a length of at least 8 characters and no more than 128 characters.
 
-Choose lowercase, uppercase, numeric, and/or special characters 
+Choose lowercase, uppercase, numeric, and/or special characters.
 
-Input should be validated and at least one character type should be selected
+Input should be validated and at least one character type should be selected.
 
-WHEN all prompts are answered a password is generated that matches the selected criteria
+WHEN all prompts are answered a password is generated that matches the selected criteria.
 
-The password is displayed in an alert 
+The password is displayed in an alert.
+
 
 ## Technologies Used
 
@@ -63,7 +64,7 @@ unable to render a stream of data to a correct symbol.  This problem cannot be c
 
 ## URL of the deployed application and URL of the GitHub repository are 
 * https://elphinhote.github.io/Hellopwd/
-* 
+
 * https://github.com/elphinhote/Hellopwd/
 
 
