@@ -62,7 +62,8 @@ a replacement '�' character. The character is used to indicate problems when a
 
 unable to render a stream of data to a correct symbol.  This problem cannot be corrected until I can find a solution.  
 
-## URL of the deployed application and URL of the GitHub repository are 
+## URL of the deployed application and URL of the GitHub repository,
+
 * https://elphinhote.github.io/Hellopwd/
 
 * https://github.com/elphinhote/Hellopwd/
